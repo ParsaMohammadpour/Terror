@@ -21,6 +21,7 @@ In the questions there are some limits that we are going to mention.
 در خط اول، عدد صحیح n وارد می شود.
 
 1 <= n <= 10 ^ 6
+
 در خط دوم، nn عدد صحیح وارد می شود که عدد iاُم بیانگر b_i است.
 1 <= b_i <= n
 
