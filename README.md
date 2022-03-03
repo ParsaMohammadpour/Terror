@@ -1,4 +1,4 @@
-# Terror
+# Terror!
 ## About The Project
 It was one of my ***algorithm*** class assignments.
 This question's topic was about ***BFS & DFS algorithms***.
